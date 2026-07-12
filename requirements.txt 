@@ -3,3 +3,10 @@ telethon==1.36.0
 loguru==0.7.2
 python-dotenv==1.0.0
 beautifulsoup4==4.12.2
+
+python-telegram-bot==20.7
+telethon==1.36.0
+loguru==0.7.2
+python-dotenv==1.0.0
+beautifulsoup4==4.12.2
+# trigger rebuild
